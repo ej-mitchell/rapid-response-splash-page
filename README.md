@@ -22,3 +22,8 @@ Example: [searslanecommunity.netlify.app](searslanecommunity.netlify.app).
 4. Leave `Build command` and `Base directory` blank.
 5. Set `Publish directory` to `/`.
 6. Fire away, captain!
+
+## Like what you see?
+
+Help pay for my coffee. ☕️ Or, it might go towards rent - since I'm a freelancer who is focusing on community justice tech. ✊⛓🔥🖤
+You can donate on [Venmo](www.venmo.com/u/eejum).
