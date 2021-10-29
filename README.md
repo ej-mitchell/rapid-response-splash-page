@@ -26,4 +26,6 @@ Example: [searslanecommunity.netlify.app](searslanecommunity.netlify.app).
 ## Like what you see?
 
 Help pay for my coffee. ☕️ Or, it might go towards rent - since I'm a freelancer who is focusing on community justice tech. ✊⛓🔥🖤
+
 You can donate on [Venmo](www.venmo.com/u/eejum).
+Or, you can support me on [Ko-fi](https://ko-fi.com/eejum).
