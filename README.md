@@ -1,4 +1,4 @@
-# Rapid Response Toolkit
+# Rapid Response Splash Page
 
 ## Purpose
 
@@ -24,6 +24,8 @@ Example: [searslanecommunity.netlify.app](https://searslanecommunity.netlify.app
 6. Fire away, captain!
 
 ## Like what you see?
+
+Keep an eye out; more is coming! There will be [11ty](https://www.11ty.dev/) templates and other options available over the coming weeks/months.
 
 Help pay for my coffee. ☕️ Or, it might go towards rent - since I'm a freelancer who is focusing on community justice tech. ✊⛓🔥🖤
 
