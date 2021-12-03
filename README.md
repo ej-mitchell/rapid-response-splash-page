@@ -5,7 +5,7 @@
 To make it easy for community justice organizers to spin up a website and provide potential supporters with context. Also can be used for mobilization purposes.
 
 ## How to use the template
-1. Fork this repo.
+1. Click "Use This Template".
 2. The landing page is already created; feel free to add your own text or adjust
 the styling/themes to fit your needs first.
 3. Deploy your fork to Netlify (see next section) and name the url something that's easy to share.
